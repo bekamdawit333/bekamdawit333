@@ -42,12 +42,6 @@ I enjoy building web applications, solving problems, and exploring modern softwa
 
 ---
 
-## 🐍 Contribution Snake
-
-![snake animation](https://github.com/bekamdawit333/bekamdawit333/blob/output/snake.svg)
-
----
-
 ## 🎯 Goals
 
 - Become a strong software engineer  
