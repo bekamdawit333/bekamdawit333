@@ -1,4 +1,4 @@
-```md
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile+👋;I'm+Bekam+Dawit;Fast+Learner+%7C+Web+Developer+%7C+AI+Explorer)](https://git.io/typing-svg)
 
 ---
@@ -77,7 +77,7 @@ I am always open to collaboration, learning, and tech discussions.
 </a>
 
 </p>
-```
+
 
 
 
