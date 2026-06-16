@@ -34,8 +34,6 @@ I enjoy building web applications, solving problems, and exploring modern softwa
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekamdawit333&layout=compact&theme=tokyonight)
 
----
-
 ## 🔥 GitHub Streak
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bekamdawit333&theme=tokyonight)
@@ -73,7 +71,7 @@ I am always open to collaboration, learning, and tech discussions.
 </a>
 
 <a href="https://t.me/makeb3">
-  <img src="https://skillicons.dev/icons?i=telegram" />
+  <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 
 </p>
