@@ -32,8 +32,8 @@ I enjoy building web applications, solving problems, and exploring modern softwa
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bekamdawit333&show_icons=true&theme=tokyonight" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=bekamdawit333&theme=tokyonight" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api?username=bekamdawit333&show_icons=true&theme=tokyonight" height="170"/>        <img src="https://github-readme-streak-stats.herokuapp.com/?user=bekamdawit333&theme=tokyonight" height="170"/>
+
 
 </p>
 
