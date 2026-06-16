@@ -30,13 +30,9 @@ I enjoy building web applications, solving problems, and exploring modern softwa
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bekamdawit333&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=bekamdawit333&show_icons=true&theme=tokyonight)    ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekamdawit333&layout=compact&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bekamdawit333&layout=compact&theme=tokyonight)
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bekamdawit333&theme=tokyonight)
+                              ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bekamdawit333&theme=tokyonight)
 
 ---
 
@@ -71,9 +67,8 @@ I am always open to collaboration, learning, and tech discussions.
 </a>
 
 <a href="https://t.me/makeb3">
-  <img src="https://img.shields.io/badge/Telegram-Contact%20Me-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/telegram/telegram-original.svg" width="40"/>
 </a>
-
 </p>
 
 
